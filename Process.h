@@ -48,9 +48,6 @@ class Process {
 	void setStarted(bool s);
 	void decreaseRemainingTime(double t);
 
-	// esto de mientras, print
-	void print() const;
-
 
 };
 
